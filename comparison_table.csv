@@ -1,0 +1,11 @@
+Metric,NSGA-II (1000 gen),MOEA/D (200 gen)
+Number of Pareto Solutions,50,29
+Best NPV (Billion USD),$14.241B,$14.600B
+Worst NPV (Billion USD),$8.224B,$7.512B
+Average NPV (Billion USD),$11.769B,$12.809B
+NPV Standard Deviation,$1.656B,$1.652B
+Best Emissions (kt CO₂/year),-16.98 kt,-16.98 kt
+Worst Emissions (kt CO₂/year),-14.32 kt,-13.96 kt
+Average Emissions (kt CO₂/year),-15.73 kt,-14.92 kt
+Emissions Standard Deviation,0.77 kt,0.80 kt
+Solutions with Net Removal (Emissions < 0),50,29
